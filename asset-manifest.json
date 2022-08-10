@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/presupuesto/static/css/main.58c0f91e.css",
+    "main.js": "/presupuesto/static/js/main.5a96435d.js",
+    "index.html": "/presupuesto/index.html",
+    "main.58c0f91e.css.map": "/presupuesto/static/css/main.58c0f91e.css.map",
+    "main.5a96435d.js.map": "/presupuesto/static/js/main.5a96435d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58c0f91e.css",
+    "static/js/main.5a96435d.js"
+  ]
+}
